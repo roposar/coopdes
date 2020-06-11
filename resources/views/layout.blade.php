@@ -5,7 +5,7 @@
         ================================================== -->
         <meta charset="utf-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <link rel="icon" type="image/png" href="images/icons/Coopdes.png">
+        <link rel="stylesheet" href="images/Coopdes.ico" class="icon">
         <title>Timer Agency Template</title>
         <meta name="description" content="">
         <meta name="keywords" content="">
